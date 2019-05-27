@@ -38,7 +38,7 @@ projects:
     documents:
       - lg-wifi
   - 
-    name: Test Cloud Enable Program
-    description: "Cloud Enable Program"
+    name: Test Cloud Enablement Program
+    description: "Cloud Enablement Program"
     documents:
-      - cloud-enable-program-docs
+      - cloud-enablement-program-docs
