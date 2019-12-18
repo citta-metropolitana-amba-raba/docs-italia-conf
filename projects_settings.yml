@@ -42,3 +42,8 @@ projects:
     description: "Cloud Enablement Program"
     documents:
       - cloud-enablement-program-docs
+  - 
+    name: Piano Nazionale Innovazione 2025
+    description: "Piano Nazionale Innovazione"
+    documents:
+      - piano-nazionale-innovazione-docs
